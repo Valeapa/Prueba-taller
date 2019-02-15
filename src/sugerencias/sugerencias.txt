@@ -1,0 +1,19 @@
+Esto es un archivo donde dejar constancia escrita de sugerencias, mejoras, 
+errores u otras ideas para el desarrollo del proyecto.
+El formato propuesto para escribir una sugerencia es:
+
+nº id - sugerencia, error, idea (el texto puede ser tan largo como se necesite,
+    no hay límite) - Autor - (estado del proceso)
+
+Ejemplo:
+
+Id = 1 - Mejora en la visualización de las estadísticas: además del gráfico
+         XY ya implementado, ayudaría mucho tener los datos en un gráfico con
+         barras y en otro gráfico de tipo PlotBox. - Adolfo - (propuesto -> en proceso -> hecho)
+
+Id = 2 - Error al cargar el archivo: al pulsar el icono de carga de archivos el
+         programa no hace nada. - Leandro - (propuesto -> corrigiendose)
+
+Id = 3 - Idea: meter en el JavaOlas un módulo para la calibración de las olas.
+         - Ana - (propuesto)
+
